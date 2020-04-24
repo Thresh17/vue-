@@ -1,24 +1,5 @@
-# vue-project
+##### vue商城后台管理
 
-## Project setup
-```
-yarn install
-```
+vue + vue-router + axios + element ui
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
